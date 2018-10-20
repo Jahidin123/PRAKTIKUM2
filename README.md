@@ -35,5 +35,7 @@
 	
         LAPORAN SINGKAT
 	GIT SAYA TIDAK SUPPORT KE WEB DAN MINGWNYA TIDAK TERBACA
-	(g++ )
+	(g++ ) dll
+	bukti screen sudah di upload
+	mohon koreksi dan bantuannya.
 	
