@@ -1,5 +1,4 @@
 # PRAKTIKUM2
-# praktikum2
 
 	NIM = 311810704
 	NAMA = JAHIDIN SHOLEH
