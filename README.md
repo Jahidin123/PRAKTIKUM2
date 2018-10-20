@@ -18,7 +18,7 @@
 	
 	
 	#latihan 2
-	#membuat perhitungan mencari bilangan terbesar dari 4 bilangan
+	#membuat perhitungan mencari bilangan terbesar dari 3 bilangan
 	-mendeklarasikan int a,b,c,d
 	-mengisikan deklarasi 
 		if (a>b&&a>c)
